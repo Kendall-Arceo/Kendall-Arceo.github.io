@@ -26,3 +26,8 @@ footer {
     height:100px;
     width:150px;
 }
+
+.solopic {
+    max-width: 250px;
+    max-height: 250px;
+}
