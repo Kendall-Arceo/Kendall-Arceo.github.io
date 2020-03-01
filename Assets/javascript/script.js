@@ -12,3 +12,11 @@ $(document).ready(function(){
 $(document).ready(function(){
     $('.materialboxed').materialbox();
 });
+
+$(document).ready(function(){
+    $('.scrollspy').scrollSpy();
+});
+
+$(document).ready(function(){
+    $('ul.tabs').tabs();
+});

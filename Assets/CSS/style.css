@@ -32,6 +32,40 @@ footer {
     max-height: 100%;
 }
 
+.project {
+    padding: 16px;
+}
+
 .projectCard {
-    margin:30px;
+    max-width: 500px;
+    max-height: 450px;
+    margin: 20px;
+    
+}
+
+.project1 {
+    height:200px;
+}
+
+.comingSoon {
+    max-width: 500px;
+    max-height: 200px;
+}
+
+.contact {
+    top: 100px;
+    border: black 10px;
+}
+
+.send {
+    text-align: center;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.dropdown {
+    max-width: 1000px;
+    max-height: 400px;
+
 }
