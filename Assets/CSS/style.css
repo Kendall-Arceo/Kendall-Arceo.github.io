@@ -22,6 +22,16 @@ footer {
     height: 100px;
 }
 
+.startBox {
+    display: block;
+    max-width: 650px;
+    padding: 28px;
+    background-color: rgba(255,255,255,.9);
+    text-align: center;
+    position: relative;
+    top: 120px;
+}
+
 .logo {
     height:100px;
     width:150px;
@@ -30,6 +40,7 @@ footer {
 .solopic {
     max-width: 100%;
     max-height: 100%;
+    border-radius: 50%;
 }
 
 .project {
@@ -50,6 +61,8 @@ footer {
 .comingSoon {
     max-width: 500px;
     max-height: 200px;
+    
+    
 }
 
 .contact {
@@ -65,7 +78,8 @@ footer {
 }
 
 .dropdown {
-    max-width: 1000px;
-    max-height: 400px;
+    max-width: 500px;
+    max-height: 250px;
 
 }
+
