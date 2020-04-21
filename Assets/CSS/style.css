@@ -64,6 +64,10 @@ footer {
     
     
 }
+.loveQuest {
+    max-width: 1000px;
+    max-height: 225px;
+}
 
 .contact {
     top: 100px;
